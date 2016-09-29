@@ -1,0 +1,10 @@
+URxvt.font: xft:DejaVu Sans Mono:size=10
+URxvt.letterSpace: -1
+URxvt.depth: 32
+URxvt.foreground: #e6e6e6
+URxvt.background: [70]#1c0013
+URxvt*scrollBar: false
+URxvt*scrollBar_right: false
+URxvt*scrollBar_floating: false
+
+
